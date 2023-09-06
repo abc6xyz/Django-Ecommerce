@@ -21,21 +21,8 @@ It is an E-commerce system built in Django. It contains all the essentials for a
 
 The repository is a start point for most of my professional projects; for this, I'm using as a part of my portfolio, feel free to use wherever you want. I'll be happy if you provide any feedback or code improvements or suggestions.
 
-Connect with me at:
-
 <p align='center'>
-    
-  <a href="https://www.linkedin.com/in/fl4viooliveira/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/13045151/">
-    <img src="https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:fl4viooliveira@gmail.com'>fl4viooliveira@gmail.com</a>
+  📫 How to reach me: <a href='mailto:byte11101100@gmail.com'>byte11101100@gmail.com</a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/fl4viooliveira/django_ecommerce"></a> 
@@ -135,11 +122,7 @@ $ python manage.py runserver
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
 
-📫Email-me: <a href='mailto:fl4viooliveira@gmail.com'>fl4viooliveira@gmail.com</a>
-
- <a href="https://www.linkedin.com/in/fl4viooliveira/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+📫Email-me: <a href='mailto:byte11101100@gmail.com'>byte11101100@gmail.com</a>
 
 Thank you!
 
