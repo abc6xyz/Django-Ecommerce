@@ -25,7 +25,7 @@ The repository is a start point for most of my professional projects; for this, 
   📫 How to reach me: <a href='mailto:byte11101100@gmail.com'>byte11101100@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/fl4viooliveira/django_ecommerce"></a> 
+  <a href="#"><img src="https://badges.pufler.dev/visits/abc6xyz/Django-Ecommerce"></a> 
 </p>
 
 ## Some technical information:
@@ -42,9 +42,9 @@ The repository is a start point for most of my professional projects; for this, 
 Cloning the Repository:
 
 ```
-$ git clone https://github.com/fl4viooliveira/django_ecommerce.git
+$ git clone https://github.com/abc6xyz/Django-Ecommerce.git
 
-$ cd django_ecommerce 
+$ cd Django-Ecommerce 
 
 ```
 
@@ -128,8 +128,8 @@ Thank you!
 
 ## License
 
-<a href="https://github.com/fl4viooliveira/django_ecommerce/blob/master/LICENSE">
+<a href="https://github.com/abc6xyz/Django-Ecommerce/blob/master/LICENSE">
     <img alt="NPM" src="https://img.shields.io/npm/l/license?style=for-the-badge">
 </a>&nbsp;&nbsp;
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/fl4viooliveira/django_ecommerce/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/abc6xyz/Django-Ecommerce/blob/master/LICENSE) file for details.
